@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+// ADD BOOTSTRAP AND REACT STRAP TO GET THIS GOING FAST LANDO
 
 function App() {
   return (
@@ -9,14 +10,7 @@ function App() {
         <p>
           Future home to the Weeb Watch app
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
       </header>
     </div>
   );
