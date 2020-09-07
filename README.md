@@ -5,7 +5,7 @@ This project is a simple web app that retrieves the top 50 rank anime from the [
 
 ## Deployment
 
-https://landodeveloper.now.sh/
+https://weeb-watch.now.sh/
 
 ## Tech Stack
 
